@@ -1,0 +1,28 @@
+#header{
+    display: flex;
+    color: purple;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.container1 {
+    color: green;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+    float: left;
+}
+
+.container2{
+    color: green;
+    width: 400px;
+    height: 400px;
+    margin-left: 850px;
+    
+}
+
+body {
+    background-color: black;
+}
+
